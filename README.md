@@ -8,7 +8,7 @@
 [![Last Updated](https://img.shields.io/github/last-commit/riverrun/comeonin.svg)](https://github.com/riverrun/comeonin/commits/master)
 [![Join the chat at https://gitter.im/comeonin/Lobby](https://badges.gitter.im/comeonin/Lobby.svg)](https://gitter.im/comeonin/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Comeonin is a specification for password hashing libraries.
+Comeonin is a specification for password hashing libraries!
 
 For information about hashing passwords in your app, see
 [Password hashing libraries](#password-hashing-libraries).
